@@ -8,6 +8,7 @@ Note: for mobile instructions scroll way down past the pc instructions
 ### 1. Install ViolentMonkey
 - Go to https://violentmonkey.github.io/get-it/
 - Select the browser that you are using
+- note: Brave browser has been reported to be buggy. If you have issues, use chrome instead.
 
 ![](https://i.imgur.com/DXD51GG.png)
 
